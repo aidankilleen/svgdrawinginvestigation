@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.78127806"
-     inkscape:cx="316.14865"
+     inkscape:cx="316.14864"
      inkscape:cy="561.89982"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -82,9 +82,10 @@
        transform="scale(0.26458333)"
        id="text592"
        style="font-size:28.1824px;font-family:'Friz Quadrata Std';-inkscape-font-specification:'Friz Quadrata Std';text-align:center;white-space:pre;shape-inside:url(#rect594);display:inline;fill:none;stroke:#3cfa06;stroke-width:1.88976;stroke-dasharray:0.755906, 4.53543"><tspan
-         x="406.91551"
+         x="418.75212"
          y="771.29117"
-         id="tspan746">Version 1.1</tspan></text>
+         id="tspan394">Version 4
+</tspan></text>
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#3cfa06;stroke-width:0.499999;stroke-dasharray:0.2, 1.2"
