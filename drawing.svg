@@ -34,7 +34,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs247" />
+     id="defs247">
+    <rect
+       x="330.22814"
+       y="748.77311"
+       width="289.26961"
+       height="92.15669"
+       id="rect594" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -50,5 +57,33 @@
          style="stroke-width:0.5"
          x="52.491447"
          y="78.229187">This is GIT</tspan></text>
+    <rect
+       style="fill:none;stroke:#3cfa06;stroke-width:0.499999;stroke-dasharray:0.2, 1.2"
+       id="rect535"
+       width="44.17065"
+       height="57.571262"
+       x="24.721779"
+       y="114.46522"
+       ry="3.1431119" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path590"
+       sodipodi:cx="105"
+       sodipodi:cy="99.564423"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="35.936859"
+       sodipodi:argument="-18.023829"
+       sodipodi:t0="0"
+       d="m 105,99.564423 c 1.22167,1.324407 -1.18255,2.300207 -2.20126,2.030497 -2.76063,-0.73089 -3.064461,-4.316954 -1.85974,-6.433009 2.15496,-3.785127 7.36415,-4.028544 10.66477,-1.688988 4.84379,3.433393 5.02314,10.453377 1.51823,14.896527 -4.6715,5.92201 -13.557623,6.03086 -19.12828,1.34747 -7.010103,-5.89357 -7.045401,-16.669047 -1.176719,-23.360033 7.10776,-8.103681 19.784519,-8.063883 27.591789,-1.005963 9.2006,8.317514 9.08485,22.902526 0.83521,31.823546 -9.52454,10.29968 -26.022207,10.10746 -36.055304,0.66445 C 73.788455,107.10917 74.057462,88.695848 84.695002,77.551863 96.628714,65.049996 116.95981,65.396016 129.21382,77.228925 142.81809,90.365696 142.3949,112.61611 129.366,125.97949" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text592"
+       style="font-size:28.1824px;font-family:'Friz Quadrata Std';-inkscape-font-specification:'Friz Quadrata Std';text-align:center;white-space:pre;shape-inside:url(#rect594);fill:none;stroke:#3cfa06;stroke-width:1.88976;stroke-dasharray:0.755906, 4.53543"><tspan
+         x="406.91551"
+         y="771.29117"
+         id="tspan609">Version 1.0</tspan></text>
   </g>
 </svg>
