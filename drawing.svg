@@ -81,9 +81,26 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text592"
-       style="font-size:28.1824px;font-family:'Friz Quadrata Std';-inkscape-font-specification:'Friz Quadrata Std';text-align:center;white-space:pre;shape-inside:url(#rect594);fill:none;stroke:#3cfa06;stroke-width:1.88976;stroke-dasharray:0.755906, 4.53543"><tspan
+       style="font-size:28.1824px;font-family:'Friz Quadrata Std';-inkscape-font-specification:'Friz Quadrata Std';text-align:center;white-space:pre;shape-inside:url(#rect594);display:inline;fill:none;stroke:#3cfa06;stroke-width:1.88976;stroke-dasharray:0.755906, 4.53543"><tspan
          x="406.91551"
          y="771.29117"
-         id="tspan609">Version 1.0</tspan></text>
+         id="tspan677">Version 1.1</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#3cfa06;stroke-width:0.499999;stroke-dasharray:0.2, 1.2"
+       id="path663"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="33.526794"
+       sodipodi:cy="201.55418"
+       sodipodi:r1="23.107372"
+       sodipodi:r2="11.553687"
+       sodipodi:arg1="0.95853233"
+       sodipodi:arg2="1.5868509"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 46.807102,220.46408 -13.465789,-7.3577 -13.695056,6.92161 2.836427,-15.08038 -10.814841,-10.88588 15.218797,-1.96249 7.011117,-13.64945 6.569307,13.86749 15.147949,2.45006 -11.158742,10.53307 z"
+       inkscape:transform-center-x="-0.11463322"
+       inkscape:transform-center-y="-2.0972529" />
   </g>
 </svg>
